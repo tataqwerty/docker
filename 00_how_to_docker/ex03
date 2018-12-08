@@ -1,0 +1,2 @@
+eval $(docker-machine env Char)
+# can be use with 'source'
